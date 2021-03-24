@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Core.Data;
 using Core.Entities;
 using Core.Interface;
+using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure
